@@ -1,4 +1,4 @@
-name: CI
+name: sign
 
 on:
   workflow_dispatch:
